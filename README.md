@@ -79,7 +79,7 @@ A user authentication system built using React.js. This project includes feature
 1. **Open your browser and navigate to:**
 
     ```bash
-    http://localhost:3000
+    http://localhost:5173
     ```
 
 2. **Register a new account:**
